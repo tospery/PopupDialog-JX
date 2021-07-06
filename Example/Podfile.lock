@@ -1,0 +1,23 @@
+PODS:
+  - DynamicBlurView (4.1.0)
+  - PopupDialog-JX (1.1.1-jx1):
+    - DynamicBlurView (~> 4.0)
+
+DEPENDENCIES:
+  - PopupDialog-JX (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - DynamicBlurView
+
+EXTERNAL SOURCES:
+  PopupDialog-JX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  PopupDialog-JX: d71712bd8aae550a0fa3406ac512a7cb16cf9a4c
+
+PODFILE CHECKSUM: 75d488fafdef916b790f6b49e0b503ec2b27eb63
+
+COCOAPODS: 1.10.1

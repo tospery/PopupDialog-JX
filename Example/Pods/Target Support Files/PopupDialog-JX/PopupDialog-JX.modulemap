@@ -1,0 +1,6 @@
+framework module PopupDialog_JX {
+  umbrella header "PopupDialog-JX-umbrella.h"
+
+  export *
+  module * { export * }
+}
